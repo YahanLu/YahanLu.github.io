@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Postdoctoral Researcher at the Sustainable Urban Multimodal Mobility Lab, Delft University of Technology
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Delft University of Technology</p>
+    <p>Delft, the Netherlands</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a postdoctoral researcher at the Sustainable Urban Multimodal Mobility (SUM) Lab at Delft University of Technology. My research integrates machine learning and operations research to address large-scale optimization problems in multimodal transportation systems under uncertainty, with a particular focus on the interaction between supply-side operations and demand-side behavior.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My long-term research goal is to leverage advances in mathematical and computational methods to improve the design and operation of transport systems as they adapt to emerging demands and disruptions. My methodological work spans decomposition algorithms, including Benders decomposition and column generation, machine-learning-enhanced solution methods, distributionally robust optimization, and data-driven uncertainty modeling. I apply these methods to problems including integrated train scheduling and dynamic pricing under stochastic demand, learning-augmented fleet sizing and routing, and coordinated multimodal service design for Mobility-as-a-Service (MaaS) platforms. A recurring theme throughout my research is the joint modeling of operational decisions and passenger demand responses, with the aim of preventing capacity mismatches in constrained transport networks.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I obtained my PhD in Systems Science from Beijing Jiaotong University (BJTU), where my doctoral research focused on robust timetabling and demand management in urban rail transit. I subsequently contributed to the EU-Rail Flagship Project MOTIONAL at TU Delft, focusing on periodic timetabling with integrated passenger routing. During my PhD, I visited the Operations, Planning, Accounting and Control group at Eindhoven University of Technology from October 2022 to September 2023. I also hold a Bachelor’s degree in Railway Transportation, with a specialization in Mathematics, from BJTU. 
