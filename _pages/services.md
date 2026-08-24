@@ -7,7 +7,7 @@ nav: true
 nav_order: 7
 ---
 
-## <i class="fa-solid fa-angles-right"></i> Reviewed Papers for:
+## <i class="fa-solid fa-angles-right"></i> Review Papers for:
 
 - Transportation Science
 - Transportation Research Part B: Methodological
