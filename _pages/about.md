@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+chinese_name: 卢亚菡
 subtitle: Postdoctoral Researcher at Delft University of Technology
 
 profile:

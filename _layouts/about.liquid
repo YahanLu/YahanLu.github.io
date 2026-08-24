@@ -10,6 +10,9 @@ layout: default
       {% else %}
         {{ site.title }}
       {% endif %}
+      {% if page.chinese_name %}
+        <span class="chinese-name">({{ page.chinese_name }})</span>
+      {% endif %}
     </h1>
     <p class="desc">{{ page.subtitle }}</p>
   </header>
