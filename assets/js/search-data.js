@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-supervision",
+          title: "supervision",
+          description: "Thesis supervision at Delft University of Technology and Beijing Jiaotong University.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/supervision/";
+          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Teaching experience at Delft University of Technology.",
