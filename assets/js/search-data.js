@@ -44,6 +44,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/presentations/";
           },
+        },{id: "nav-services",
+          title: "Services",
+          description: "Academic service and peer-review activities.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/services/";
+          },
         },{id: "nav-contact",
           title: "Contact",
           description: "Contact Yahan Lu by email.",
