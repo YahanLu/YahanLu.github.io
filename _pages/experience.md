@@ -32,7 +32,7 @@ nav_order: 2
       <header><div><h3><a href="https://en.bjtu.edu.cn/" rel="external nofollow noopener" target="_blank">Beijing Jiaotong University</a></h3><p>Transition Year from Bachelor to PhD · Systems Science</p></div><time>Sep 2019 – Aug 2020</time></header>
       <ul>
         <li>Supervisor: <a href="https://faculty.bjtu.edu.cn/7856/" rel="external nofollow noopener" target="_blank">Prof. Lixing Yang</a></li>
-        <li>Research topic: Distributionally robust optimization for last-train coordination planning</li>
+        <li>Research topic: Distributionally robust optimization for last train coordination planning</li>
       </ul>
     </article>
 
