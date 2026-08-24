@@ -21,9 +21,11 @@ nav_order: 4
         <span><strong>Chenwei Peng</strong><small>Master’s</small></span>
       </li>
       <li>
+        <span class="supervision-status ongoing">[Ongoing]</span>
         <span><strong>Martijn Damman</strong><small>Master’s</small></span>
       </li>
       <li>
+        <span class="supervision-status ongoing">[Ongoing]</span>
         <span><strong>Mega Pradipta Fainallazi</strong><small>Master’s</small></span>
       </li>
     </ul>
@@ -38,6 +40,7 @@ nav_order: 4
         <span><strong>Xiangjiang Li</strong><small>Master’s</small></span>
       </li>
       <li>
+        <span class="supervision-status ongoing">[Ongoing]</span>
         <span><strong>Jinghui Zhang</strong><small>PhD</small></span>
       </li>
     </ul>
