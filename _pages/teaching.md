@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Teaching experience at Delft University of Technology.
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 ## <i class="fa-solid fa-user-group"></i> Teaching Assistant
