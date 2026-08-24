@@ -2,14 +2,13 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Teaching experience at Delft University of Technology.
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 3
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## <i class="fa-solid fa-user-group"></i> Teaching Assistant
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+- <i class="fa-solid fa-location-dot"></i> **CIEM6000 / CIEQ6002: Transport Modeling and Analysis (MSc)**, November 2025–April 2026, Delft University of Technology.
 
-{% include courses.liquid %}
+- <i class="fa-solid fa-location-dot"></i> **CIEM6000 / CIEQ6002: Transport Modeling and Analysis (MSc)**, November 2026–April 2027, Delft University of Technology.
