@@ -9,6 +9,11 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
+<p class="publication-notes">
+  <sup>#</sup>: Students working with Dr Lu.<br>
+  <sup>*</sup>: Corresponding author.
+</p>
+
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
