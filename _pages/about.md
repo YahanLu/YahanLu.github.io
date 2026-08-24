@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Researcher at the Sustainable Urban Multimodal Mobility Lab, Delft University of Technology
+subtitle: Postdoctoral Researcher at Delft University of Technology
 
 profile:
   align: right
