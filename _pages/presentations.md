@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /presentations/
-title: presentations
+title: Presentations
 description: Conference organization, session chairing, invited talks, and conference presentations.
 nav: true
 nav_order: 6

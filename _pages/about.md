@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 chinese_name: 卢亚菡
 subtitle: Postdoctoral Researcher at Delft University of Technology

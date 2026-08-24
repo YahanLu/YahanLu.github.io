@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /experience/
-title: experience
+title: Experience
 description: Academic background and professional experience.
 nav: true
 nav_order: 2

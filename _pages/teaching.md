@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Teaching experience at Delft University of Technology.
 nav: true
 nav_order: 5

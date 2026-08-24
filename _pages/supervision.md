@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /supervision/
-title: supervision
+title: Supervision
 description: Thesis supervision at Delft University of Technology and Beijing Jiaotong University.
 nav: true
 nav_order: 4
