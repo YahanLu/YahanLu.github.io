@@ -52,7 +52,7 @@ nav_order: 2
     <article class="experience-entry">
       <header><div><h3><a href="https://www.tudelft.nl/en/" rel="external nofollow noopener" target="_blank">Delft University of Technology</a></h3><p>Postdoctoral Researcher</p></div><time>May 2025 – Present</time></header>
       <ul>
-        <li>Project: <a href="https://www.amsterdam.nl/en/policy/waste-maintenance/" rel="external nofollow noopener" target="_blank">Clean City Amsterdam</a></li>
+        <li>Project: <a href="https://www.ams-institute.org/urban-challenges/circularity-urban-regions/living-lab-clean-inner-city-innovative-solutions-for-waste-management-in-amsterdam/" rel="external nofollow noopener" target="_blank">Clean City Amsterdam</a></li>
         <li>Research on multimodal on-demand waste collection optimization</li>
         <li>Supervisors: <a href="https://research.tudelft.nl/en/persons/s-sharif-azadeh/" rel="external nofollow noopener" target="_blank">Dr. Shadi Sharif Azadeh</a> and <a href="https://research.tudelft.nl/en/persons/g-homem-de-almeida-correia/" rel="external nofollow noopener" target="_blank">Dr. Gonçalo Homem de Almeida Correia</a></li>
       </ul>
