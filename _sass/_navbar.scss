@@ -11,6 +11,11 @@
   opacity: 0.95;
 }
 
+// Keep top-level page labels consistently capitalized, including the active page.
+.navbar-nav > .nav-item > .nav-link {
+  text-transform: capitalize;
+}
+
 .navbar .dropdown-menu,
 .btn-group.dropdown .dropdown-menu {
   background-color: var(--global-bg-color);
