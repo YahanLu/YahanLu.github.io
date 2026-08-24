@@ -9,5 +9,5 @@ nav_order: 8
 
 You can reach me at:
 
-- Delft University of Technology: [yahanlu@tudelft.nl](mailto:yahanlu@tudelft.nl)
-- Beijing Jiaotong University: [lyahan@bjtu.edu.cn](mailto:lyahan@bjtu.edu.cn)
+- [yahanlu@tudelft.nl](mailto:yahanlu@tudelft.nl)
+- [luyahan@bjtu.edu.cn](mailto:luyahan@bjtu.edu.cn)
