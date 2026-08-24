@@ -11,6 +11,22 @@
   opacity: 0.95;
 }
 
+// Keep the complete navigation visible at every viewport width.
+#navbar {
+  .navbar-toggler {
+    display: none !important;
+  }
+
+  .navbar-collapse {
+    display: flex !important;
+    flex-basis: auto;
+  }
+
+  .navbar-nav {
+    flex-direction: row;
+  }
+}
+
 // Keep top-level page labels consistently capitalized, including the active page.
 .navbar-nav > .nav-item > .nav-link {
   padding-right: 0.45rem;
