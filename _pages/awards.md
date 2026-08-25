@@ -16,6 +16,7 @@ nav_order: 7
         <time datetime="2025-04">Apr 2025</time>
         <div>
           <h3>Best Paper Award</h3>
+          <p><em>An iterative ALNS heuristic for strategic timetabling with integrated passenger routing in railway networks.</em></p>
           <p>11th International Conference on Railway Operations Modelling and Analysis (RailDresden 2025)</p>
         </div>
       </li>
