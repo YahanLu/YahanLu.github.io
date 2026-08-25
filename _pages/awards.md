@@ -20,6 +20,7 @@ nav_order: 7
         </div>
       </li>
     </ul>
+
   </section>
 
   <section aria-labelledby="honors-awards-heading">
@@ -50,5 +51,6 @@ nav_order: 7
         </div>
       </li>
     </ul>
+
   </section>
 </div>
