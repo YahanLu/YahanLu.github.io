@@ -44,6 +44,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/presentations/";
           },
+        },{id: "nav-awards",
+          title: "Awards",
+          description: "Academic honors, scholarships, and awards.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/awards/";
+          },
         },{id: "nav-services",
           title: "Services",
           description: "Academic service and peer-review activities.",
