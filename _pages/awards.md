@@ -23,8 +23,8 @@ nav_order: 7
 
   </section>
 
-  <section aria-labelledby="honors-awards-heading">
-    <h2 id="honors-awards-heading">Honors and Awards</h2>
+  <section aria-labelledby="scholarships-honors-heading">
+    <h2 id="scholarships-honors-heading">Scholarships and Honors</h2>
 
     <ul class="award-list">
       <li class="award-entry">
@@ -46,7 +46,7 @@ nav_order: 7
       <li class="award-entry">
         <span class="award-years" aria-label="Awarded in 2020, 2022, and 2023">2020 · 2022 · 2023</span>
         <div>
-          <h3>First Prize Scholarship</h3>
+          <h3>First-Class Scholarship</h3>
           <p>Beijing Jiaotong University, China</p>
         </div>
       </li>
