@@ -26,6 +26,14 @@ latest_posts:
 
 I am a postdoctoral researcher at the Sustainable Urban Multimodal Mobility (SUM) Lab at Delft University of Technology. My research integrates machine learning and operations research to address large-scale optimization problems in multimodal transportation systems under uncertainty, with a particular focus on the interaction between supply-side operations and demand-side behavior.
 
-My long-term research goal is to leverage advances in mathematical and computational science approaches to improve the design and operation of transport systems as they adapt to emerging demands and disruptions. My current research focuses on data-driven modeling, particularly optimization under uncertainty through stochastic programming, robust optimization, and distributionally robust optimization. I also develop decomposition algorithms, including Benders decomposition and column generation, as well as machine learning-enhanced solution methods. I apply these methods to problems including integrated train scheduling and dynamic pricing under stochastic demand, learning-augmented fleet sizing and routing, and coordinated multimodal service design for Mobility-as-a-Service (MaaS) platforms. A recurring theme throughout my research is the joint modeling of operational decisions and demand responses, with the aim of improving the alignment between transport capacity and demand.
+My long-term research goal is to leverage advances in mathematical and computational science approaches to improve the design and operation of transport systems as they adapt to emerging demands and disruptions.
+
+## Research Interests
+
+- **Data-driven modeling and optimization under uncertainty**, including stochastic programming, robust optimization, and distributionally robust optimization
+- **Decomposition algorithms**, including Benders decomposition and column generation
+- **Machine learning-enhanced solution methods**
+
+I apply these methods to problems including integrated train scheduling and dynamic pricing under stochastic demand, learning-augmented fleet sizing and routing, and coordinated multimodal service design for Mobility-as-a-Service (MaaS) platforms. A recurring theme throughout my research is the joint modeling of operational decisions and demand responses, with the aim of improving the alignment between transport capacity and demand.
 
 I obtained my PhD in Systems Science from Beijing Jiaotong University (BJTU), where my doctoral research focused on robust timetabling and demand management in urban rail transit. I subsequently contributed to the EU-Rail Flagship Project MOTIONAL at TU Delft, focusing on periodic timetabling with integrated passenger routing. During my PhD, I visited the Operations, Planning, Accounting and Control group at Eindhoven University of Technology from October 2022 to September 2023. I also hold a Bachelor’s degree in Railway Transportation, with a specialization in Mathematics, from BJTU.
