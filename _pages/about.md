@@ -26,13 +26,11 @@ latest_posts:
 
 I am a postdoctoral researcher at the Sustainable Urban Multimodal Mobility (SUM) Lab at Delft University of Technology. My research integrates machine learning and operations research to address large-scale optimization problems in multimodal transportation systems under uncertainty, with a particular focus on the interaction between supply-side operations and demand-side behavior.
 
-My long-term research goal is to leverage advances in mathematical and computational science approaches to improve the design and operation of transport systems as they adapt to emerging demands and disruptions.
-
-## Research Interests
+My long-term research goal is to leverage advances in mathematical and computational science approaches to improve the design and operation of transport systems as they adapt to emerging demands and disruptions. My research interests include:
 
 - **Data-driven modeling and optimization under uncertainty**, including stochastic programming, robust optimization, and distributionally robust optimization
-- **Decomposition algorithms**, including Benders decomposition and column generation
-- **Machine learning-enhanced solution methods**
+- **Operations Research algorithms**, including Benders decomposition and column generation
+- **Methods combining Machine Learning and Operations Research**
 
 I apply these methods to problems including integrated train scheduling and dynamic pricing under stochastic demand, learning-augmented fleet sizing and routing, and coordinated multimodal service design for Mobility-as-a-Service (MaaS) platforms. A recurring theme throughout my research is the joint modeling of operational decisions and demand responses, with the aim of improving the alignment between transport capacity and demand.
 
