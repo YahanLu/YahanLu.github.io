@@ -4,7 +4,7 @@ permalink: /contact/
 title: Contact
 description: Contact Yahan Lu by email.
 nav: true
-nav_order: 8
+nav_order: 9
 ---
 
 You can reach me at:

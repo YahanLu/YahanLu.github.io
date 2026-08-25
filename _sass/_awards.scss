@@ -1,0 +1,67 @@
+.awards-page {
+  section {
+    margin-top: 2.5rem;
+
+    &:first-child {
+      margin-top: 1.25rem;
+    }
+
+    > h2 {
+      margin-bottom: 1rem;
+      padding-bottom: 0.4rem;
+      border-bottom: 2px solid var(--global-theme-color);
+      font-size: 1.45rem;
+      font-weight: 600;
+    }
+  }
+
+  .award-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .award-entry {
+    display: grid;
+    grid-template-columns: 9.5rem minmax(0, 1fr);
+    gap: 1.25rem;
+    margin-bottom: 0.8rem;
+    padding: 1rem 1.2rem;
+    border-left: 3px solid var(--global-theme-color);
+    background: var(--global-card-bg-color);
+
+    time,
+    .award-years {
+      align-self: start;
+      padding-top: 0.12rem;
+      color: var(--global-theme-color);
+      font-size: 0.85rem;
+      font-weight: 600;
+      letter-spacing: 0.02em;
+      white-space: nowrap;
+    }
+
+    h3 {
+      margin: 0;
+      font-size: 1.08rem;
+      font-weight: 600;
+    }
+
+    p {
+      margin: 0.22rem 0 0;
+      line-height: 1.5;
+    }
+
+    .award-note {
+      color: var(--global-text-color-light);
+      font-size: 0.92rem;
+    }
+  }
+}
+
+@media (max-width: 576px) {
+  .awards-page .award-entry {
+    grid-template-columns: 1fr;
+    gap: 0.35rem;
+  }
+}
