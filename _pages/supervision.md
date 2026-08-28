@@ -29,6 +29,7 @@ nav_order: 4
         <span><strong>Martijn Damman</strong><small>Master’s</small></span>
       </li>
     </ul>
+
   </section>
 
   <section>
@@ -44,6 +45,7 @@ nav_order: 4
         <span><strong>Jinghui Zhang</strong><small>PhD</small></span>
       </li>
     </ul>
+
   </section>
 
   <section>
@@ -55,5 +57,6 @@ nav_order: 4
         <span><strong>Zihan Kong</strong><small>Undergraduate</small></span>
       </li>
     </ul>
+
   </section>
 </div>
