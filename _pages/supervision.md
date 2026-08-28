@@ -45,4 +45,15 @@ nav_order: 4
       </li>
     </ul>
   </section>
+
+  <section>
+    <h2>BJTU &amp; TU Delft Joint Program in Traffic and Transportation</h2>
+
+    <ul class="supervision-list">
+      <li>
+        <span class="supervision-status">Graduated Jun 2025</span>
+        <span><strong>Zihan Kong</strong><small>Undergraduate</small></span>
+      </li>
+    </ul>
+  </section>
 </div>
