@@ -30,7 +30,7 @@ My long-term research goal is to leverage advances in mathematical and computati
 
 - **Data-driven modeling and optimization under uncertainty**, including stochastic programming, robust optimization, and distributionally robust optimization
 - **Operations Research algorithms**, including Benders decomposition and column generation
-- **Methods combining Machine Learning and Operations Research**
+- **Combining machine learning and optimization to improve decision making under uncertainty**
 
 I have applied these methods to problems such as line planning; train timetabling and demand management; integrated train scheduling and dynamic pricing; fleet sizing and vehicle routing for on-demand services; and coordinated multimodal service design for Mobility-as-a-Service (MaaS) platforms.
 
