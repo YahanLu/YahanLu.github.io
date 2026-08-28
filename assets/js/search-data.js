@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-presentations",
           title: "Presentations",
-          description: "Conference organization, session chairing, invited talks, and conference presentations.",
+          description: "Invited talks and conference presentations.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/presentations/";
@@ -53,7 +53,7 @@ ninja.data = [{
           },
         },{id: "nav-services",
           title: "Services",
-          description: "Academic service and peer-review activities.",
+          description: "Conference organization, session chairing, and peer-review activities.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/services/";
