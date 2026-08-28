@@ -9,7 +9,7 @@ nav_order: 4
 
 <div class="supervision-page">
   <section>
-    <h2>Delft University of Technology</h2>
+    <h2>Delft University of Technology (TU Delft)</h2>
 
     <ul class="supervision-list">
       <li>
@@ -33,7 +33,7 @@ nav_order: 4
   </section>
 
   <section>
-    <h2>Beijing Jiaotong University</h2>
+    <h2>Beijing Jiaotong University (BJTU)</h2>
 
     <ul class="supervision-list">
       <li>
