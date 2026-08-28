@@ -13,13 +13,13 @@ nav_order: 8
 
 ## Session Chair
 
-- **Session Chair**, The 24th Conference of the International Federation of Operational Research Societies, Vienna, Austria: _Integrated train scheduling and dynamic pricing with endogenous demand under uncertainty: A machine learning-enhanced Benders decomposition approach_, July 12–17, 2026.
+- **Session Chair**, The 24th Conference of the International Federation of Operational Research Societies, Vienna, Austria. Chaired the session _Data-driven optimization under uncertainty in rail transit systems_, July 12–17, 2026.
 
-- **Session Chair**, Biennial Meeting of the EURO Working Group on Revenue Management & Pricing (EWG-RMP), Luxembourg: _Robust optimization of coordinated train timetabling, ticket pricing, and demand management in metro systems_, December 4, 2025.
+- **Session Chair**, Biennial Meeting of the EURO Working Group on Revenue Management & Pricing (EWG-RMP), Luxembourg, December 4, 2025.
 
-- **Session Chair**, 13th Symposium of the European Association for Research in Transportation (hEART 2025), Munich, Germany: _Integrated demand-side management and timetabling for an urban rail transit line: A Benders decomposition approach_, June 10–12, 2025.
+- **Session Chair**, 13th Symposium of the European Association for Research in Transportation (hEART 2025), Munich, Germany, June 10–12, 2025.
 
-- **Session Chair**, 11th International Conference on Railway Operations Modelling and Analysis (RailDresden 2025), Dresden, Germany: _An iterative ALNS heuristic for strategic timetabling with integrated passenger routing in railway networks_, April 1–4, 2025.
+- **Session Chair**, 11th International Conference on Railway Operations Modelling and Analysis (RailDresden 2025), Dresden, Germany, April 1–4, 2025.
 
 ## Review Papers for:
 
