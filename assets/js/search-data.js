@@ -37,12 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-presentations",
-          title: "Presentations",
-          description: "Invited talks and conference presentations.",
+        },{id: "nav-services",
+          title: "Services",
+          description: "Conference organization, session chairing, and peer-review activities.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/presentations/";
+            window.location.href = "/services/";
           },
         },{id: "nav-awards",
           title: "Awards",
@@ -51,12 +51,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/awards/";
           },
-        },{id: "nav-services",
-          title: "Services",
-          description: "Conference organization, session chairing, and peer-review activities.",
+        },{id: "nav-presentations",
+          title: "Presentations",
+          description: "Invited talks and conference presentations.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/services/";
+            window.location.href = "/presentations/";
           },
         },{id: "nav-contact",
           title: "Contact",
