@@ -4,7 +4,7 @@ permalink: /presentations/
 title: Presentations
 description: Invited talks and conference presentations.
 nav: true
-nav_order: 6
+nav_order: 8
 ---
 
 ## Invited Talks

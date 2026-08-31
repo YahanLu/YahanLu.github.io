@@ -4,7 +4,7 @@ permalink: /services/
 title: Services
 description: Conference organization, session chairing, and peer-review activities.
 nav: true
-nav_order: 8
+nav_order: 6
 ---
 
 ## Conference Organization
