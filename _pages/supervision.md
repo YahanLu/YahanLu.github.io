@@ -38,11 +38,20 @@ nav_order: 4
     <ul class="supervision-list">
       <li>
         <span class="supervision-status">Graduated Jun 2024</span>
-        <span><strong>Xiangjiang Li</strong><small>Master’s</small></span>
+        <span>
+          <strong>Xiangjiang Li</strong>
+          <small>Master’s</small>
+          <small>Co-supervised with Prof. Lixing Yang</small>
+        </span>
       </li>
       <li>
         <span class="supervision-status ongoing">[Ongoing]</span>
-        <span><strong>Jinghui Zhang</strong><small>PhD</small></span>
+        <span>
+          <strong>Jinghui Zhang</strong>
+          <small>PhD</small>
+          <small>Oct 2023–Apr 2024: Co-supervised with Prof. Lixing Yang</small>
+          <small>May 2024–present: Research collaboration</small>
+        </span>
       </li>
     </ul>
 
