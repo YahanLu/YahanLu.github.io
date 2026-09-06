@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a postdoctoral researcher at the Sustainable Urban Multimodal Mobility (SUM) Lab at Delft University of Technology. My research integrates machine learning and operations research to address large-scale optimization problems in multimodal transportation systems under uncertainty, with a particular focus on the interaction between supply-side operations and demand-side behavior.
+I am a postdoctoral researcher at the Sustainable Urban Multimodal Mobility (SUM) Lab at Delft University of Technology. My research integrates operations research and machine learning to address large-scale optimization problems in multimodal transportation systems under uncertainty, with a particular focus on the interaction between supply-side operations and demand-side behavior.
 
 My long-term research goal is to leverage advances in mathematical and computational science approaches to improve the design and operation of transport systems as they adapt to emerging demands and disruptions. My research interests include:
 
