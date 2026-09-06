@@ -21,7 +21,7 @@ nav_order: 6
 
 - **Session Chair**, 11th International Conference on Railway Operations Modelling and Analysis (RailDresden 2025), Dresden, Germany, April 1–4, 2025.
 
-## Review (49) Papers for:
+## Review (50) Papers for:
 
 - Transportation Science
 - Transportation Research Part B: Methodological
@@ -31,6 +31,7 @@ nav_order: 6
 - Computers & Operations Research
 - IEEE Transactions on Intelligent Transportation Systems
 - Computers & Industrial Engineering
+- Multimodal Transportation
 - IET Intelligent Transport Systems
 - Research in Transportation Business & Management
 - Expert Systems With Applications
