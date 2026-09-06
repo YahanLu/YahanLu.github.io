@@ -28,10 +28,10 @@ I am a postdoctoral researcher at the Sustainable Urban Multimodal Mobility (SUM
 
 My long-term research goal is to leverage advances in mathematical and computational science approaches to improve the design and operation of transport systems as they adapt to emerging demands and disruptions. My research interests include:
 
-- **Data-driven modeling and optimization under uncertainty**, including stochastic programming, robust optimization, and distributionally robust optimization
-- **Operations Research algorithms**, including Benders decomposition and column generation
-- **Combining machine learning and optimization to improve decision making under uncertainty**
+- **Optimization under uncertainty**, including stochastic programming, robust optimization, and distributionally robust optimization
+- **Operations Research algorithms**, including Benders decomposition, column generation, and matheuristics
+- **Combining machine learning and optimization to improve decision-making under uncertainty**
 
-I have applied these methods to problems such as line planning; train timetabling and demand management; integrated train scheduling and dynamic pricing; fleet sizing and vehicle routing for on-demand services; and coordinated multimodal service design for Mobility-as-a-Service (MaaS) platforms.
+I have applied these methods to problems such as line planning, train timetabling and demand management, integrated train scheduling and dynamic pricing, fleet sizing and vehicle routing for on-demand services, and coordinated multimodal service design for Mobility-as-a-Service (MaaS) platforms.
 
 I obtained my PhD in Systems Science from Beijing Jiaotong University (BJTU), where my doctoral research focused on robust timetabling and demand management in urban rail transit. I subsequently contributed to the EU-Rail Flagship Project MOTIONAL at TU Delft, focusing on periodic timetabling with integrated passenger routing. During my PhD, I visited the Operations, Planning, Accounting and Control group at Eindhoven University of Technology from October 2022 to September 2023. I also hold a Bachelor’s degree in Railway Transportation, with a specialization in Mathematics, from BJTU.
