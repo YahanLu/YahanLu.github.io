@@ -32,6 +32,6 @@ My long-term research goal is to leverage advances in mathematical and computati
 - **Operations Research algorithms**, including Benders decomposition, column generation, and matheuristics
 - **Combining machine learning and optimization to improve decision-making under uncertainty**
 
-I have applied these methods to problems such as line planning, train timetabling and demand management, integrated train scheduling and dynamic pricing, fleet sizing and vehicle routing for on-demand services, and coordinated multimodal service design for Mobility-as-a-Service (MaaS) platforms.
+I have applied these methods to problems such as line planning in both single-modal and multi-modal transit systems, train timetabling and demand management, train scheduling and dynamic pricing, fleet sizing and vehicle routing for on-demand services, and coordinated multimodal service design for Mobility-as-a-Service (MaaS) platforms.
 
 I obtained my PhD in Systems Science from Beijing Jiaotong University (BJTU), where my doctoral research focused on robust timetabling and demand management in urban rail transit. I subsequently contributed to the EU-Rail Flagship Project MOTIONAL at TU Delft, focusing on periodic timetabling with integrated passenger routing. During my PhD, I visited the Operations, Planning, Accounting and Control group at Eindhoven University of Technology from October 2022 to September 2023. I also hold a Bachelor’s degree in Railway Transportation, with a specialization in Mathematics, from BJTU.
