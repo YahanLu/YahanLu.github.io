@@ -16,16 +16,16 @@ nav_order: 7
         <time datetime="2026-09">Sep 2026</time>
         <div>
           <h3>RERITE Reproducible Research Badge</h3>
-          <p><strong>Title:</strong> <em>Integrated train scheduling and dynamic pricing with endogenous demand under uncertainty: A machine learning-enhanced Benders decomposition approach.</em></p>
-          <p>14th Symposium of the European Association for Research in Transportation (hEART 2026), Paris, France</p>
+                    <p><strong>Awarded paper:</strong> <em>Integrated train scheduling and dynamic pricing with endogenous demand under uncertainty: A machine learning-enhanced Benders decomposition approach.</em></p>
+                    <p><strong>Conference:</strong> 14th Symposium of the European Association for Research in Transportation (hEART 2026), Paris, France</p>
         </div>
       </li>
       <li class="award-entry">
         <time datetime="2025-04">Apr 2025</time>
         <div>
           <h3>Best Paper Award</h3>
-          <p><strong>Title:</strong> <em>An iterative ALNS heuristic for strategic timetabling with integrated passenger routing in railway networks.</em></p>
-          <p>11th International Conference on Railway Operations Modelling and Analysis (RailDresden 2025)</p>
+                    <p><strong>Awarded paper:</strong> <em>An iterative ALNS heuristic for strategic timetabling with integrated passenger routing in railway networks.</em></p>
+                    <p><strong>Conference:</strong> 11th International Conference on Railway Operations Modelling and Analysis (RailDresden 2025), Dresden, Germany</p>
         </div>
       </li>
     </ul>
