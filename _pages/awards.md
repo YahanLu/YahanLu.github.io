@@ -12,6 +12,14 @@ nav_order: 7
     <h2 id="academic-honors-heading">Academic Honors</h2>
 
     <ul class="award-list">
+          <li class="award-entry">
+        <time datetime="2026-09">Sep 2026</time>
+        <div>
+          <h3>RERITE Reproducible Research Badge</h3>
+          <p><strong>Title:</strong> <em>Integrated train scheduling and dynamic pricing with endogenous demand under uncertainty: A machine learning-enhanced Benders decomposition approach.</em></p>
+          <p>14th Symposium of the European Association for Research in Transportation (hEART 2026), Paris, France</p>
+        </div>
+      </li>
       <li class="award-entry">
         <time datetime="2025-04">Apr 2025</time>
         <div>
