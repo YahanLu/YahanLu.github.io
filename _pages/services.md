@@ -37,5 +37,6 @@ nav_order: 6
 - Expert Systems With Applications
 - Computer-Aided Civil and Infrastructure Engineering
 - Journal of Rail Transport Planning & Management
+- High-speed Railway
 - Journal of Traffic and Transportation Engineering (English Edition)
 - RailDresden 2025
